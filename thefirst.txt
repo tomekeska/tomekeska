@@ -1,1 +1,2 @@
 Learnig git is fun :)
+I'm adding line to master (main) like a Pro! 

@@ -1,2 +1,3 @@
 Learnig git is fun :)
-I'm adding line to master (main) like a Pro! 
+I'm adding line to master (main) like a Pro!
+And now... Feature Branch commit :D 
